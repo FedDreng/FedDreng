@@ -1,2 +1,1 @@
-## Founder of FDV Studio
-Pro idiot, sometimes a game developer.
+!(https://github.com/FedDreng/FedDreng/blob/main/FDVStudioLogoForPersonalSite.png)
